@@ -1,0 +1,52 @@
+2025-07-09 14:53:37 INFO  hooks.Hooks - 🔄 Resetting session before scenario: Login using guest option
+2025-07-09 14:53:37 INFO  config.ConfigurationManager - Attempting to load configuration file: config.properties
+2025-07-09 14:53:37 INFO  config.ConfigurationManager - Loaded config from classpath.
+2025-07-09 14:53:37 INFO  config.ConfigurationManager - Configuration loaded with 134 entries.
+2025-07-09 14:53:54 INFO  hooks.Hooks - ✅ Driver created successfully.
+2025-07-09 14:53:56 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: Continue as Guest
+2025-07-09 14:53:58 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: com.android.permissioncontroller:id/permission_allow_foreground_only_button
+2025-07-09 14:53:59 INFO  pages.popups.PermissionHandler - ℹ️ No permission popups appeared.
+2025-07-09 14:53:59 INFO  helpers.ToastHelper - 🔍 Checking if login page is displayed...
+2025-07-09 14:54:04 INFO  helpers.ToastHelper - ❌ Login page not visible.
+2025-07-09 14:54:05 INFO  hooks.Hooks - 📸 Screenshot attached to Allure report.
+2025-07-09 14:54:05 INFO  hooks.Hooks - 🧹 Tearing down session after scenario: Login using guest option
+2025-07-09 14:54:05 INFO  hooks.Hooks - ✅ Session ended.
+2025-07-09 14:54:05 INFO  hooks.Hooks - 🔍 Loaded email.enabled: false
+2025-07-09 14:54:05 INFO  hooks.Hooks - 🚫 Email sending is disabled via config (email.enabled=false)
+2025-07-09 14:54:05 INFO  hooks.Hooks - 🔄 Resetting session before scenario: Search and view product details without logging in
+2025-07-09 14:54:19 INFO  hooks.Hooks - ✅ Driver created successfully.
+2025-07-09 14:54:21 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: Continue as Guest
+2025-07-09 14:54:24 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: com.android.permissioncontroller:id/permission_allow_foreground_only_button
+2025-07-09 14:54:30 INFO  pages.popups.PermissionHandler - ℹ️ No permission popups appeared.
+2025-07-09 14:54:51 WARN  helpers.ElementHelper - ❌ None of the elements became visible within timeout.
+2025-07-09 14:54:52 INFO  hooks.Hooks - 📸 Screenshot attached to Allure report.
+2025-07-09 14:54:52 INFO  hooks.Hooks - 🧹 Tearing down session after scenario: Search and view product details without logging in
+2025-07-09 14:54:52 INFO  hooks.Hooks - ✅ Session ended.
+2025-07-09 14:54:52 INFO  hooks.Hooks - 🔍 Loaded email.enabled: false
+2025-07-09 14:54:52 INFO  hooks.Hooks - 🚫 Email sending is disabled via config (email.enabled=false)
+2025-07-09 14:55:04 INFO  hooks.Hooks - 🔄 Resetting session before scenario: Login using guest option
+2025-07-09 14:55:04 INFO  config.ConfigurationManager - Attempting to load configuration file: config.properties
+2025-07-09 14:55:04 INFO  config.ConfigurationManager - Loaded config from classpath.
+2025-07-09 14:55:04 INFO  config.ConfigurationManager - Configuration loaded with 134 entries.
+2025-07-09 14:55:18 INFO  hooks.Hooks - ✅ Driver created successfully.
+2025-07-09 14:55:21 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: Continue as Guest
+2025-07-09 14:55:23 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: com.android.permissioncontroller:id/permission_allow_foreground_only_button
+2025-07-09 14:55:29 INFO  pages.popups.PermissionHandler - ℹ️ No permission popups appeared.
+2025-07-09 14:55:29 INFO  helpers.ToastHelper - 🔍 Checking if login page is displayed...
+2025-07-09 14:55:35 INFO  helpers.ToastHelper - ❌ Login page not visible.
+2025-07-09 14:55:35 INFO  hooks.Hooks - 📸 Screenshot attached to Allure report.
+2025-07-09 14:55:35 INFO  hooks.Hooks - 🧹 Tearing down session after scenario: Login using guest option
+2025-07-09 14:55:36 INFO  hooks.Hooks - ✅ Session ended.
+2025-07-09 14:55:36 INFO  hooks.Hooks - 🔍 Loaded email.enabled: false
+2025-07-09 14:55:36 INFO  hooks.Hooks - 🚫 Email sending is disabled via config (email.enabled=false)
+2025-07-09 14:55:36 INFO  hooks.Hooks - 🔄 Resetting session before scenario: Search and view product details without logging in
+2025-07-09 14:55:51 INFO  hooks.Hooks - ✅ Driver created successfully.
+2025-07-09 14:55:54 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: Continue as Guest
+2025-07-09 14:55:56 WARN  helpers.ElementHelper - ❌ Element not present: AppiumBy.id: com.android.permissioncontroller:id/permission_allow_foreground_only_button
+2025-07-09 14:56:02 INFO  pages.popups.PermissionHandler - ℹ️ No permission popups appeared.
+2025-07-09 14:56:22 WARN  helpers.ElementHelper - ❌ None of the elements became visible within timeout.
+2025-07-09 14:56:23 INFO  hooks.Hooks - 📸 Screenshot attached to Allure report.
+2025-07-09 14:56:23 INFO  hooks.Hooks - 🧹 Tearing down session after scenario: Search and view product details without logging in
+2025-07-09 14:56:23 INFO  hooks.Hooks - ✅ Session ended.
+2025-07-09 14:56:23 INFO  hooks.Hooks - 🔍 Loaded email.enabled: false
+2025-07-09 14:56:23 INFO  hooks.Hooks - 🚫 Email sending is disabled via config (email.enabled=false)

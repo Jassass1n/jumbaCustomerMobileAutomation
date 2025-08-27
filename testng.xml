@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Appium Tests" parallel="none" preserve-order="true">
+
+    <!-- ✅ Common Listeners -->
+    <listeners>
+        <listener class-name="utils.TestListener"/>
+        <listener class-name="utils.RetryTransformer"/>
+    </listeners>
+
+    <!-- ✅ Full Suite Runner -->
+    <test name="All Features">
+        <classes>
+            <class name="runners.TestRunner"/> <!-- Unified runner with multiple tags -->
+        </classes>
+    </test>
+
+</suite>
